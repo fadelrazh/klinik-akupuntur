@@ -1,6 +1,6 @@
 # Klinik Akupuntur Laravel
 
-This project is a [Application Name] based on Laravel, developed for [project purpose].
+This project is a Klinik Akupuntur based on Laravel, developed for Portfolio PHP.
 
 ## Installation
 
